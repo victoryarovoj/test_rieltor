@@ -1,0 +1,4 @@
+C:\Documents and Settings\1\Local Settings\Application Data\Temporary Projects\test_rieltor\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\1\Local Settings\Application Data\Temporary Projects\test_rieltor\obj\x86\Release\test_rieltor.Properties.Resources.resources
+C:\Documents and Settings\1\Local Settings\Application Data\Temporary Projects\test_rieltor\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\1\Local Settings\Application Data\Temporary Projects\test_rieltor\obj\x86\Release\GenerateResource.write.1.tlog

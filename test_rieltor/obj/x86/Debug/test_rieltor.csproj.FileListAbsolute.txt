@@ -1,0 +1,9 @@
+C:\Documents and Settings\1\Local Settings\Application Data\Temporary Projects\test_rieltor\bin\Debug\test_rieltor.exe
+C:\Documents and Settings\1\Local Settings\Application Data\Temporary Projects\test_rieltor\bin\Debug\test_rieltor.pdb
+C:\Documents and Settings\1\Local Settings\Application Data\Temporary Projects\test_rieltor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\1\Local Settings\Application Data\Temporary Projects\test_rieltor\obj\x86\Debug\test_rieltor.MainForm.resources
+C:\Documents and Settings\1\Local Settings\Application Data\Temporary Projects\test_rieltor\obj\x86\Debug\test_rieltor.Properties.Resources.resources
+C:\Documents and Settings\1\Local Settings\Application Data\Temporary Projects\test_rieltor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\1\Local Settings\Application Data\Temporary Projects\test_rieltor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\1\Local Settings\Application Data\Temporary Projects\test_rieltor\obj\x86\Debug\test_rieltor.exe
+C:\Documents and Settings\1\Local Settings\Application Data\Temporary Projects\test_rieltor\obj\x86\Debug\test_rieltor.pdb
